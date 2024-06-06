@@ -24,13 +24,13 @@
       <img src="logos/wordmarks/foundation_wordmark_colored_symbol_white_text.png" height="50"/>
     </td>
   </tr>
-  <tr style="background-color: #1e1e1e;">
-    <td align="center"><img src="logos/symbols/foundation_symbol_white_transparent_background.png" height="50"/></td>
-    <td align="center"><img src="logos/wordmarks/foundation_wordmark_white_symbol_white_text.png" height="50"/></td>
-  </tr>
   <tr style="background-color: #c0c0c0;">
     <td align="center"><img src="logos/symbols/foundation_symbol_black_transparent_background.png" height="50"/></td>
     <td align="center"><img src="logos/wordmarks/foundation_wordmark_black_symbol_black_text.png" height="50"/></td>
+  </tr>
+<tr style="background-color: #1e1e1e;">
+    <td align="center"><img src="logos/symbols/foundation_symbol_white_transparent_background.png" height="50"/></td>
+    <td align="center"><img src="logos/wordmarks/foundation_wordmark_white_symbol_white_text.png" height="50"/></td>
   </tr>
 </table>
 
@@ -50,13 +50,13 @@
       <img src="logos/wordmarks/wallet_wordmark_colored_symbol_white_text.png" height="50"/>
     </td>
   </tr>
-  <tr style="background-color: #1e1e1e;">
-    <td align="center"><img src="logos/symbols/wallet_symbol_white_transparent_background.png" height="50"/></td>
-    <td align="center"><img src="logos/wordmarks/wallet_wordmark_white_symbol_white_text.png" height="50"/></td>
-  </tr>
   <tr style="background-color: #c0c0c0;">
     <td align="center"><img src="logos/symbols/wallet_symbol_black_transparent_background.png" height="50"/></td>
     <td align="center"><img src="logos/wordmarks/wallet_wordmark_black_symbol_black_text.png" height="50"/></td>
+  </tr>
+<tr style="background-color: #1e1e1e;">
+    <td align="center"><img src="logos/symbols/wallet_symbol_white_transparent_background.png" height="50"/></td>
+    <td align="center"><img src="logos/wordmarks/wallet_wordmark_white_symbol_white_text.png" height="50"/></td>
   </tr>
 </table>
 
