@@ -102,9 +102,14 @@
 #### (Used to Represent Brand Identity in Logos and Marketing Materials)
 [TASA Orbiter Display](fonts/brandingFonts)
 
+### Platform Fonts (located in [/fonts/platformFonts](fonts/platformFonts))
+#### (Used for Platform Related Purposes)
+[Plus Jakarta Sans](fonts/platformFonts)
+
 ### Everyday Fonts (located in [/fonts/everydayFonts](fonts/everydayFonts))
-#### (Used for General Purposes)
-[Plus Jakarta Sans](fonts/everydayFonts)
+
+#### (Used for General Purpose)
+[Inter](fonts/everydayFonts)
 
 ## Banners
 
