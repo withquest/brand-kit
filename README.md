@@ -3,9 +3,11 @@
 </p>
 
 # Quest Brand Kit
+
 #### (Click on Asset to Download)
 
 ## Usage Guidelines
+
 - Do maintain original aspect ratios and clear space
 - Do ensure text and graphics comply with color and typography standards
 - Do not alter colors, shape, or proportions
@@ -79,44 +81,68 @@
 </table>
 
 ## Colors
+
 <table>
     <tr style="background-color: #c0c0c0; color: black;">
         <th>Name</th>
         <th>Color</th>
     </tr>
     <tr style="background-color: #c0c0c0; color: black;">
-    <td align="center">
-        Quest Spectrum <br>
-        linear-gradient(137deg, #0000D3, 0%, #3AA7DA, 88%);
-    </td>
-    <td align="center">
-        <img src="colors/questSpectrum.png" width="50"/>
-    </td>
-</tr>
+        <td align="center">
+            Quest Spectrum <br>
+            linear-gradient(137deg, #0000D3, 0%, #3AA7DA, 88%);
+        </td>
+        <td align="center">
+            <img src="colors/questSpectrum.png" width="50"/>
+        </td>
+    </tr>
 </table>
 
+## Elements
 
+<table>
+    <tr style="background-color: #c0c0c0; color: black;">
+        <th>Name</th>
+        <th>Element</th>
+    </tr>
+    <tr style="background-color: #c0c0c0; color: black;">
+        <td align="center">
+            Quest Border
+        </td>
+        <td align="center">
+            <img src="elements/questBorder.png"/>
+        </td>
+    </tr>
+</table>
 ## Fonts
 
 ### Branding Fonts (located in [/fonts/brandingFonts](fonts/brandingFonts))
+
 #### (Used to Represent Brand Identity in Logos and Marketing Materials)
+
 [TASA Orbiter Display](fonts/brandingFonts)
 
 ### Platform Fonts (located in [/fonts/platformFonts](fonts/platformFonts))
+
 #### (Used for Platform Related Purposes)
+
 [Plus Jakarta Sans](fonts/platformFonts)
 
 ### Everyday Fonts (located in [/fonts/everydayFonts](fonts/everydayFonts))
 
 #### (Used for General Purpose)
+
 [Inter](fonts/everydayFonts)
 
 ## Banners
 
 ### Long Banners
+
 #### (Width = 1500px)
+
 <img src="banners/w1500px/bannerWithSlogan1.png"/>
 <img src="banners/w1500px/abstractBanner1.png"/>
 
 ## Contact and Support
+
 For more information or specific requests, please contact the brand team at [branding@withquest.com](mailto:branding@withquest.com)
