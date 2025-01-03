@@ -45,7 +45,7 @@
 ### Logomarks
 
 <table>
-  <tr style="background-color: #c0c0c0;">
+  <tr style="background-color: #c0c0c0; color: black;">
     <td align="center">
         Spectrum
     </td>
@@ -56,7 +56,7 @@
         <img src="logos/logomarks/coloredMark.png" height="50"/>
     </td>
   </tr>
-  <tr style="background-color: #c0c0c0;">
+  <tr style="background-color: #c0c0c0; color: black;">
     <td align="center">
         Light
     </td>
@@ -67,7 +67,7 @@
         <img src="logos/logomarks/whiteMark.png" height="50"/>
     </td>
   </tr>
-  <tr style="background-color: #c0c0c0;">
+  <tr style="background-color: #c0c0c0; color: black;">
     <td align="center">
         Dark
     </td>
