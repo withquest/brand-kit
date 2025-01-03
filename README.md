@@ -114,6 +114,7 @@
         </td>
     </tr>
 </table>
+
 ## Fonts
 
 ### Branding Fonts (located in [/fonts/brandingFonts](fonts/brandingFonts))
